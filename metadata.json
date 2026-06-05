@@ -1,0 +1,6 @@
+{
+  "name": "Garg Hardware Paint Studio",
+  "description": "An ultra-premium interactive 3D home paint visualizer and luxury design platform by Garg Hardware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
